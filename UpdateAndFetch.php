@@ -6,6 +6,7 @@
 	$deleteSecs = 60;
 	$response = array();
 	
+	// Enter SQL details
 	$host="";
 	$user="";
 	$pass="";
