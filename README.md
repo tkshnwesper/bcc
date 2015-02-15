@@ -9,3 +9,5 @@ It is really simple to get this up and running.
     3. SetNick.php
     4. UpdateAndFetch.php
 4. Upload it to your server. Done!
+
+Sample: http://bchat.byethost6.com/
