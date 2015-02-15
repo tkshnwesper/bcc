@@ -1,4 +1,4 @@
-# bcc
+# BatChitChat
 It is really simple to get this up and running.
 
 1. Create a MySQL database.
