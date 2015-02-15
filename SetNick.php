@@ -2,6 +2,7 @@
 	
 	session_start();
 	
+	// Enter SQL details
 	$host="";
 	$user="";
 	$pass="";
